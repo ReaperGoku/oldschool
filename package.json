@@ -1,0 +1,27 @@
+{
+  "name": "oldschool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReaperGoku/oldschool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReaperGoku/oldschool/issues"
+  },
+  "homepage": "https://github.com/ReaperGoku/oldschool#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "dotenv-flow": "^3.1.0",
+    "quick.db": "^7.1.1"
+  }
+}
